@@ -1,0 +1,13 @@
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\bin\Debug\netcoreapp3.1\StreamV2.0.exe
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\bin\Debug\netcoreapp3.1\StreamV2.0.deps.json
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\bin\Debug\netcoreapp3.1\StreamV2.0.runtimeconfig.json
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\bin\Debug\netcoreapp3.1\StreamV2.0.runtimeconfig.dev.json
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\bin\Debug\netcoreapp3.1\StreamV2.0.dll
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\bin\Debug\netcoreapp3.1\StreamV2.0.pdb
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\obj\Debug\netcoreapp3.1\StreamV2.0.AssemblyInfoInputs.cache
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\obj\Debug\netcoreapp3.1\StreamV2.0.AssemblyInfo.cs
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\obj\Debug\netcoreapp3.1\StreamV2.0.csproj.CoreCompileInputs.cache
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\obj\Debug\netcoreapp3.1\StreamV2.0.dll
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\obj\Debug\netcoreapp3.1\StreamV2.0.pdb
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\obj\Debug\netcoreapp3.1\StreamV2.0.genruntimeconfig.cache
+C:\Users\Clément\source\repos\StreamV2.0\StreamV2.0\obj\Debug\netcoreapp3.1\StreamV2.0.csprojAssemblyReference.cache
